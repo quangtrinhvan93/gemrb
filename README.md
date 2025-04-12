@@ -6,7 +6,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=gemrb_gemrb&metric=alert_status)](https://sonarcloud.io/dashboard?id=gemrb_gemrb)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3101/badge)](https://bestpractices.coreinfrastructure.org/projects/3101)
 
-## Introduction
+## Introduction:
 
 [GemRB](https://gemrb.org) (Game Engine Made with preRendered Background) is a portable open-source
 reimplementation of the Infinity Engine that underpinned Baldur's Gate,
@@ -28,7 +28,7 @@ in `gemrb/docs/` and the [gemrb.6 man page](https://gemrb.org/Manpage.html).
 If you want to help out, start by reading this
 list of [options, tips and priorities](https://github.com/gemrb/gemrb/blob/master/CONTRIBUTING.md).
 
-## Supported platforms
+## Supported platforms:
 
 Architectures and platforms that successfully run or ran GemRB:
 * Linux x86, x86-64, ppc, mips (s390x builds, but no running info)
